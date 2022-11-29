@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PatrickAccarinoDEV
+- 👀 Atualmente estudando JavaScript e React JS
