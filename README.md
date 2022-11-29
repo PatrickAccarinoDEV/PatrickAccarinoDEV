@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @PatrickAccarinoDEV
+- 👋 Oi, eu sou Patrick Accarino!
 - 👀 Atualmente estudando JavaScript e React JS
