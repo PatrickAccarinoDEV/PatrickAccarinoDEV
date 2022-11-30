@@ -1,10 +1,10 @@
 - 👋 Oi, eu sou Patrick Accarino!
 - 👀 Atualmente estudando JavaScript e React JS
 
-<div style="display: inline-block" align="center">
+<div style="display: grid" align="center">
   <a href="https://github.com/patrickaccarinodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickaccarinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaccarinodev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api?username=patrickaccarinodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaccarinodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
